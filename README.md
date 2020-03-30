@@ -59,6 +59,34 @@ DP 문제
     문제:<a href="https://www.acmicpc.net/problem/5543"> 상근날드</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5538.cpp"> 바로가기</a>
   </li>
+   <li>
+    문제:<a href="https://www.acmicpc.net/problem/4948"> 베르토랑 공준</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_4948.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/10797"> 10부제</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_10797.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5585"> 거스름돈</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5585.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/3053"> 택시 기하학</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_3053.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/4153"> 직각삼각형</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_4153.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5565"> 영수증</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5565.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/10886"> 0 = not cute / 1 = cute</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_10886.cpp"> 바로가기</a>
+  </li>
 </ul>
 
 그리디 알고리즘
