@@ -87,6 +87,34 @@ DP 문제
     문제:<a href="https://www.acmicpc.net/problem/10886"> 0 = not cute / 1 = cute</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_10886.cpp"> 바로가기</a>
   </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/10798"> 세로읽기</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_10798.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/2563"> 색종이</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_2563.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5597"> 과제 안 내신 분..?</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5597.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5063"> TGN</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5063.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/1748"> 수 이어 쓰기1</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_1748.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5532"> 방학 숙제</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5532.cpp"> 바로가기</a>
+  </li>
+   <li>
+    문제:<a href="https://www.acmicpc.net/problem/2822"> 점수 계산</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_2822.cpp"> 바로가기</a>
+  </li>
 </ul>
 
 그리디 알고리즘
