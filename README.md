@@ -115,6 +115,22 @@ DP 문제
     문제:<a href="https://www.acmicpc.net/problem/2822"> 점수 계산</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_2822.cpp"> 바로가기</a>
   </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/1159"> 농구 경기</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_1159.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/10707"> 수도요금</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_10707.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/8979"> 올림픽</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_8979.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5554"> 심부름 가는길</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5554.cpp"> 바로가기</a>
+  </li>
 </ul>
 
 그리디 알고리즘
