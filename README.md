@@ -6,6 +6,10 @@ DP 문제
     문제:<a href="https://programmers.co.kr/learn/courses/30/lessons/43104"> 타일장식물</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/programmers_43104.cpp"> 바로가기</a>
   </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/11051"> 이항 계수 2</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_11051.cpp"> 바로가기</a>
+  </li>
 </ul>
 
 구현
@@ -131,6 +135,34 @@ DP 문제
     문제:<a href="https://www.acmicpc.net/problem/5554"> 심부름 가는길</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5554.cpp"> 바로가기</a>
   </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/2935"> 소음</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_2935.cpp"> 바로가기</a>
+  </li>
+   <li>
+    문제:<a href="https://www.acmicpc.net/problem/5596"> 시험 점수</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5596.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/10984"> 내 학점을 구해줘</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_10984.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/2851"> 슈퍼 마리오</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_2851.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/12790"> Mini Fantasy War</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_12790.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5567"> 결혼식</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5567.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/3034"> 앵그리 창영</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_3034.cpp"> 바로가기</a>
+  </li>
 </ul>
 
 그리디 알고리즘
@@ -148,5 +180,14 @@ DP 문제
   <li>
     문제:<a href="https://www.acmicpc.net/problem/1992"> 쿼드트리</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_1992.cpp"> 바로가기</a>
+  </li>
+</ul>
+
+그래프
+
+<ul>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/1197"> 최소 스패닝 트리</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_1197.cpp"> 바로가기</a>
   </li>
 </ul>
