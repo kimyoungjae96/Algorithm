@@ -163,6 +163,18 @@ DP 문제
     문제:<a href="https://www.acmicpc.net/problem/3034"> 앵그리 창영</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_3034.cpp"> 바로가기</a>
   </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5576"> 콘테스트</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5576.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5032"> 탄산 음료</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5032.cpp"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://www.acmicpc.net/problem/5032"> 탄산 음료</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_5032.cpp"> 바로가기</a>
+  </li>
 </ul>
 
 그리디 알고리즘
@@ -189,5 +201,14 @@ DP 문제
   <li>
     문제:<a href="https://www.acmicpc.net/problem/1197"> 최소 스패닝 트리</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/baekjoon_1197.cpp"> 바로가기</a>
+  </li>
+</ul>
+
+기타
+
+<ul>
+  <li>
+    이론:조합 &nbsp;&nbsp;&nbsp;
+    소스코드:<a href="https://github.com/kimyoungjae96/Algorithm/blob/master/combination.cpp"> 바로가기</a>
   </li>
 </ul>
