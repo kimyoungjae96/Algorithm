@@ -25,6 +25,23 @@
 
 // };
 
+// var singleNumber = function(nums) {
+//     const numberSet = new Set();
+
+//     for (let num of nums) {
+//         if (!numberSet.has(num)) {
+//             numberSet.add(num);
+//         } else {
+//             numberSet.delete(num);
+//         }
+//     }
+
+//     for (let answer of numberSet) {
+//         return answer;
+//     }
+
+// };
+
 var singleNumber = function (nums) {
   if (nums.length === 0) return;
   let xor = nums[0];
