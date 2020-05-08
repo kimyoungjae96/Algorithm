@@ -29,10 +29,14 @@
   </li>
   <li>
     문제:<a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-2/3290/"> Backspace String Compare</a>&nbsp;&nbsp;&nbsp;
-    풀이:<a href="./leetcode_week-2_3290.js"> 바로가기</a>
+    풀이:<a href="./leetcode_week-2_3291.js"> 바로가기</a>
   </li>
   <li>
     문제:<a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-2/3290/"> Min Stack</a>&nbsp;&nbsp;&nbsp;
     풀이:<a href="./leetcode_week-2_3292.js"> 바로가기</a>
+  </li>
+  <li>
+    문제:<a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-2/3293/"> Diameter of Binary Tree</a>&nbsp;&nbsp;&nbsp;
+    풀이:<a href="./leetcode_week-2_3293.js"> 바로가기</a>
   </li>
 </ul>
