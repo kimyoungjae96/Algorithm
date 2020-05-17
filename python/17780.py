@@ -27,7 +27,7 @@ for jIndex, j in enumerate(ChessPiece):
             print(i)
             exit
         else:
-            if(Chess[jIndex][kIndex] == 0):  # 흰색일경우
+            if(Chess[jIndex][kIndex] == 0 or Chess[jIndex][kIndex] == 1):  # 흰색 , 빨간색일경우
                 if k[0][1] == 1:  # 오른쪽
                     if(Chess[jIndex][kIndex] == 0 & kIndex+1 < N):
                         while(len(ChessPiece[jIndex][kIndex]) != 0):
@@ -57,7 +57,7 @@ for jIndex, j in enumerate(ChessPiece):
                             ChessPiece.pop(0)  # 맨 앞에 값 팝
                             ChessPiece[jIndex+1][kIndex].append(Temp)
             elif(Chess[jIndex][kIndex] == 1):  # 빨간색인경우
-            elif(Chess[jIndex][kIndex] == 1):  # 파란색인경우
+            elif(Chess[jIndex][kIndex] == 2):  # 파란색인경우
 i += 1
 
 
